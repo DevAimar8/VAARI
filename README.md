@@ -4,9 +4,9 @@
 
 ---
 
-## 🏥 ¿Qué hace VAARi?
+## 🏥 ¿Qué hace VAARI?
 
-VAARi se creó con el objetivo de facilitar la gestión diaria en centros de mayores, optimizando los procesos administrativos y mejorando la atención a los residentes.
+VAARI se creó con el objetivo de facilitar la gestión diaria en centros de mayores, optimizando los procesos administrativos y mejorando la atención a los residentes.
 
 ### 🗂️ Funcionalidades principales:
 
