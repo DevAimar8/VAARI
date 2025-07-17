@@ -29,8 +29,10 @@ VAARI se creó con el objetivo de facilitar la gestión diaria en centros de may
 
 ## 🚧 Estado del proyecto
 
-> Este fue mi **primer gran proyecto en Java**, marcando el inicio de mi experiencia en el desarrollo web con conexión a bases de datos reales.  
+> Este fue mi **primer gran proyecto en Java**, marcando el inicio de mi experiencia en el desarrollo web con conexión a bases de datos reales.
+
 > Actualmente funciona como una **demo funcional** de app para centros asistenciales, y puede ser ampliada a nuevas funcionalidades según necesidades del cliente.
+
 > Resumen del proyecto: [VAARI PROYECTO FINAL.pdf](https://github.com/user-attachments/files/20566049/VAARI.PROYECTO.FINAL.pdf)
 
 
